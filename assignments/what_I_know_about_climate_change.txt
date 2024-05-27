@@ -1,0 +1,11 @@
+There are a plethora of statistics that demonstrate the fact that the climate is changing. A concise list of the undeniable and most widely understood statistics can be found on NASA's website, under a page titled "Vital Signs".
+- Atmospheric CO2 concentrations have increased dramatically, by ~50% since the onset of the industrial revolution. This is from the burning of fossil fuels, as evidenced by the shifting composition of carbon isotopes in the atmosphere.
+- Global surface temperatures have risen dramatically. In 2023, the average temperature was 1.36 degrees C greater than the preindustrial average./
+- Methane, which is an incredibly strong greenhouse gas, has had an increased atmospheric concentration. Concentrations have more than doubled since 1800.
+- Arctic sea ice minima has decreased significantly. Though satellite observations only began in 1979, the decrease observed is at 12.2%. This is a result of warmer air and upper ocean temperatures, and the disproportionate impact of temperature change on polar regions.
+- Both the Antarctic and Greenland ice sheets have been melting. Ice sheet mass has been decreasing for both ice sheets, with Antarctica losing ~150 billion tons/year, and Greenland losing ~270 billion tons per year. This is once again due to increased average air and upper ocean temperatures. The impact of this is severe; ice sheets consist of ~68% of Earth's freshwater, and ice sheet volume loss leads to an increase in sea level. If the Greenland Ice Sheet were to completely melt, the sea level would rise 7.4 m. If the Antarctic ice sheet were to completely melt, the sea level would rise by 60 m.
+- Sea level has been rising due to the thermal expansion experienced by a warming ocean, as well as the increase of water from melting ice sheets and glaciers. Since 1993, the sea level has risen by ~103.3 mm.
+- The ocean has been warming as well. Oceans are considered heat sinks, because circulation helps store warm surface waters towards the bottom of the ocean. 90% of global warming has occurred in the ocean, with the ocean warming 360 zettajoules since 1955.
+Sources:
+NASA. "Vital Signs" (2024).
+Graven, H., Keeling, R., Rogelj, J. "Changes to Carbon Isotopes in Atmospheric CO2 Over the Industrial Era and Into the Future". Global Biogeochemical Cycles, 34, 11 (2020).
